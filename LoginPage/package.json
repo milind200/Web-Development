@@ -1,7 +1,7 @@
 {
   "name": "Secrets",
   "version": "1.0.0",
-  "description": "",
+  "description": "This login page was created using MongoDB, HTML, CSS, NodeJS, Mongoose, Experis, and Bcript.",
   "main": "app.js",
   "dependencies": {
     "body-parser": "^1.18.3",
